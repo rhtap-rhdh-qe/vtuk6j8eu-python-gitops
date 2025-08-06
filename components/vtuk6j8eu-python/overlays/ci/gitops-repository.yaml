@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vtuk6j8eu-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vtuk6j8eu-python-gitops
